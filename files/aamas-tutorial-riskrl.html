@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<title>AAMAS 2022 Tutorial</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee,.fa-bicycle,.fa-phone,.fa-microphone {font-size:200px}
+
+img.percent {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 250px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: white;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: white;
+  color:black
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 500px;
+  display: none;
+}
+
+/* Clear floats after the tab */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#home" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white w3-white">Home</a>
+    <a href="#abstract" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Abstract</a>
+    <a href="#materials" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Materials</a>
+    <a href="#speakers" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Speakers</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact</a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#abstract" class="w3-bar-item w3-button w3-padding-large">Abstract</a>
+    <a href="#materials" class="w3-bar-item w3-button w3-padding-large">Materials</a>
+    <a href="#speakers" class="w3-bar-item w3-button w3-padding-large">Speakers</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large">Contact</a>
+  </div>
+</div>
+
+
+
+<section id="home">
+<header class="w3-container w3-blue w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">Risk-aware Single-Agent & Multi-agent Reinforcement Learning: Algorithms And Meta-Alogrithms</h1>
+  <p class="w3-xlarge">
+    <a href="https://aamas2022-conference.auckland.ac.nz/">AAMAS 2022</a> Tutorial, May 9-10, 2022</p>
+  <p  class="w3-xlarge">Auckland, New Zealand</p>
+  <!-- <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button> -->
+</header>
+</section>
+
+
+
+
+
+
+
+
+<!-- <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <img class="percent" src="aaai_tutorial.png" alt="Tutorial Overview">
+  </div>
+</div> -->
+
+
+
+
+
+
+<!-- First Grid -->
+<section id="abstract">
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Tutorial Abstract</h1>
+      <h5 class="w3-padding-32">This tutorial introduces the state-of-the-art risk-aware methodologies for autonomous systems by centering around the following questions:
+      </h5>
+
+      <p class="w3-text-grey">
+        <ul class="w3-text-grey">
+          <li>What exactly is the risk, and what are the mathematical formulations of risk-awareness? We will introduce three risk-awareness metrics: Volatility-averseness, Worst-case robustness, and Failure-criticality.
+          </li>
+          <br>
+          <li>How to design the risk-aware methods? Do we need to start from scratch? Or can we use some easy tweaks to turn existing risk-oblivious algorithms into risk-aware ones? We will focus on two categories: Inherently/Intrinsic risk-aware and Post-hoc/Meta-methods.
+          </li>
+        </ul>
+      </p>
+
+      <h5 class="w3-padding-32">Our goal is for the audience to learn about the risk-aware models for security scenarios and exact/approximate algorithms to find solutions. The audience will also learn how concepts from behavioral risk-awareness have been applied and deployed in the context of decision-making. In addition, the audience can have a basic understanding of algorithmic groundings on reinforcement learning and multi-agent theory.
+      <br><br>
+      The tutorial aims at students and researchers interested in decision-making applications for safety and risk management. It should also be of interest to researchers on applied multi-agent systems research. We also hope that this tutorial will appeal to industry participants interested in applied work and to decision-making practitioners who may be interested in learning more about the specific techniques employed in this important class of decision-making.
+      <br><br>
+      <a href="https://aamas2022-conference.auckland.ac.nz/program/tutorials/">Official information</a> on AAMAS website.
+      </h5>
+
+      <hr>
+
+      <!-- <h5 class="w3-padding-32">
+
+
+		<div class="slideshow-container">
+
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">1 / 3</div>
+		    <img src="1.png" style="width:100%">
+		    <div class="text">Shiqi Zhang giving the talk</div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">2 / 3</div>
+		    <img src="2.png" style="width:100%">
+		    <div class="text">75+ registrants, the most popular quarter-day tutorial! </div>
+		  </div>
+
+		  <div class="mySlides fade">
+		    <div class="numbertext">3 / 3</div>
+		    <img src="3.png" style="width:100%">
+		    <div class="text">Some other concurrent tutorials</div>
+		  </div>
+
+
+		  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+
+
+		<div style="text-align:center">
+		  <span class="dot" onclick="currentSlide(1)"></span>
+		  <span class="dot" onclick="currentSlide(2)"></span>
+		  <span class="dot" onclick="currentSlide(3)"></span>
+		</div>
+      </h5> -->
+
+    </div>
+
+    <div class="w3-third w3-center">
+      <i class="fa fa-coffee w3-padding-64 w3-text-blue"></i>
+    </div>
+  </div>
+</div>
+</section>
+
+
+<!-- Second Grid -->
+<section id="materials">
+<div class="w3-row-padding w3-light-blue w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-bicycle w3-padding-64 w3-text-blue w3-margin-right"></i>
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Materials</h1>
+      <h5 class="w3-padding-32">Tutorial materials will be added here. </h5>
+      <p class="w3-text-grey">
+        <ul class="w3-text-grey">
+          <li>Talk <a href="#materials">slides</a> will be added later. </li>
+          <br>
+          <!-- <img src="slides.png" alt="Girl in a jacket" width="300"> -->
+          <br><br>
+        </ul>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- Second Grid -->
+<!-- <a id="papers"></a>
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <h1>Related Papers (incomplete, more to be added)</h1>
+    <p class="w3-text-grey">
+      <ul class="w3-text-grey">
+        <li> -->
+<!--           <p>Using temporal logic to guide RL</p>
+          <ul class="w3-text-grey">
+            <li>Aksaray D, Yazicioglu Y, Asarkaya AS. Probabilistically Guaranteed Satisfaction of Temporal Logic Constraints During Reinforcement Learning. arXiv preprint arXiv:2102.10063. 2021 Feb 19.</li>
+          </ul>
+        </li>
+        <br>
+        <li>
+          <p>Logical reasoning for state estimation</p>
+          <ul class="w3-text-grey">
+            <li>ABC</li>
+          </ul>
+        </li>
+        <br>
+        <li>
+          <p>Hierarchical methods</p>
+          <ul class="w3-text-grey">
+            <li>Sridharan M, Gelfond M, Zhang S, Wyatt J. REBA: A refinement-based architecture for knowledge representation and reasoning in robotics. Journal of Artificial Intelligence Research. 2019 Jun 17;65:87-180.</li>
+          </ul> -->
+        <!-- </li>
+      </ul>
+    </p>
+  </div>
+</div> -->
+</section>
+
+
+
+<section id="speakers">
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+
+    <!-- <div class="w3-twothird"> -->
+      <h1>Speakers</h1>
+      <h5 class="w3-padding-32">This tutorial will be co-offered by Bo Liu, Bo An and Yangyang Xu. </h5>
+
+      <div class="tab w3-blue">
+        <button class="tablinks w3-button w3-hide-small w3-padding-large w3-hover-white" onmouseover="openTab(event, 'BoLiu')">Bo Liu</button>
+        <button class="tablinks w3-button w3-hide-small w3-padding-large w3-hover-white" onmouseover="openTab(event, 'BoAn')">Bo An</button>
+        <button class="tablinks w3-button w3-hide-small w3-padding-large w3-hover-white" onmouseover="openTab(event, 'YangyangXu')">Yangyang Xu</button>
+      </div>
+
+      <div id="BoLiu" class="tabcontent">
+        <p class="w3-text-grey"><b>Bo Liu</b> is a tenure-track assistant professor in the Dept. of Computer Science and Software Engineering at Auburn University. He obtained his Ph.D. from Autonomous Learning Lab at the University of Massachusetts Amherst, 2015, co-led by Drs. Sridhar Mahadevan and Andrew Barto. His primary research area covers decision-making under uncertainty, human-aided machine learning, symbolic AI, trustworthiness and interpretability in machine learning, and their numerous applications to BIGDATA, autonomous driving, and healthcare informatics. He has more than 30 publications on several notable venues in his current research, such as NIPS/NeurIPS, ICML, UAI, AAAI, IJCAI, AAMAS, JAIR IEEE-TNN, ACM TECS, etc. His research is funded by NSF, Amazon, Tencent (China), Adobe, and ETRI (South Korea). He was nominated for the 2016 ACM Doctoral Dissertation Award. He is the recipient of the UAI'2015 Facebook Best Student Paper Award, Tencent Rhio-Bird Faculty Research Award in 2017, and the Amazon (Faculty) Research Award in 2018. He is an Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (IEEE-TNN), a senior member of IEEE, and a member of AAAI, ACM, and INFORMS.</p>
+      </div>
+
+      <div id="BoAn" class="tabcontent">
+        <p class="w3-text-grey"><b>Bo An</b> is a President’s Council Chair Associate Professor at Nanyang Technological University, Singapore. He received the Ph.D. degree in Computer Science from the University of Massachusetts, Amherst. His current research interests include artificial intelligence, multiagent systems, computational game theory, reinforcement learning, and optimization. His research results have been successfully applied to many domains, including infrastructure security and e-commerce. He has published over 100 referred papers at AAMAS, IJCAI, AAAI, ICAPS, KDD, UAI, EC, WWW, ICLR, NeurIPS, ICML, JAAMAS, AIJ, and ACM/IEEE Transactions. Dr. An was the recipient of the 2010 IFAAMAS Victor Lesser Distinguished Dissertation Award, an Operational Excellence Award from the Commander, First Coast Guard District of the United States, 2012 INFORMS Daniel H. Wagner Prize for Excellence in Operations Research Practice, and 2018 Nanyang Research Award (Young Investigator). His publications won the Best Innovative Application Paper Award at AAMAS’12, the Innovative Application Award at IAAI’16, and the best paper award at DAI’20. He was invited to give an Early Career Spotlight talk at IJCAI’17. He led the team HogRider which won the 2017 Microsoft Collaborative AI Challenge. He was named to IEEE Intelligent Systems' "AI's 10 to Watch" list for 2018. He was invited to be an Advisory Committee member of IJCAI’18.  He is PC Co-Chair of AAMAS’20. He is a member of the editorial board of JAIR and is the Associate Editor of AIJ, JAAMAS, IEEE Intelligent Systems, ACM TAAS, and ACM TIST. He was elected to the board of directors of IFAAMAS, a senior member of AAAI, and a distinguished member of ACM.</p>
+      </div>
+
+      <div id="YangyangXu" class="tabcontent">
+        <p class="w3-text-grey"><b>Yangyang Xu</b> is now a tenure-track assistant professor in the Department of Mathematical Sciences at Rensselaer Polytechnic Institute. He received his B.S. in Computational Mathematics from Nanjing University in 2007, M.S. in Operations Research from the Chinese Academy of Sciences in 2010, and Ph.D. from the Department of Computational and Applied Mathematics at Rice University in 2014. His research interests are optimization theory and methods and their applications, such as machine learning, statistics, and signal processing. He developed optimization algorithms for compressed sensing, matrix completion, and tensor factorization and learning. His recent research focuses on first-order methods, stochastic optimization methods, and high-performance parallel computing. His research has been supported by NSF and IBM. He has published over 30 papers in prestigious journals and conference proceedings, such as Mathematical Programming, SIOPT, ICASSP, and NeurIPS. He was awarded the gold medal in the 2017 International Consortium of Chinese Mathematicians.</p>
+      </div>
+
+      <div class="clearfix"></div>
+
+
+      <!-- <p class="w3-text-grey">
+        <ul class="w3-text-grey">
+          <li>
+          <br>
+          <!-- <a href="http://www.cs.binghamton.edu/~szhang/">http://www.cs.binghamton.edu/~szhang/</a> -->
+          <!-- </li>
+
+          <br>
+
+          <li>
+          <br> -->
+          <!-- <a href="http://www.cs.bham.ac.uk/~sridharm/index.html">http://www.cs.bham.ac.uk/~sridharm/index.html</a> -->
+          <!-- </li>
+        </ul>
+      </p>  -->
+    <!-- </div> -->
+
+    <!-- <div class="w3-third w3-center">
+      <i class="fa fa-microphone w3-padding-64 w3-text-blue w3-margin-right"></i>
+    </div> -->
+
+  </div>
+</div>
+</section>
+
+
+
+
+
+<section id="contact">
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-third w3-center">
+      <i class="fa fa-phone w3-padding-64 w3-text-blue w3-margin-right"></i>
+    </div>
+
+    <div class="w3-twothird">
+      <h1>Contact Information</h1>
+      <h5 class="w3-padding-32">If you have any questions, comments, or suggestions. Please do not hesitate to contact (any one of) the speakers. </h5>
+
+      <ul class="w3-text-grey">
+        <li>boliu@auburn.edu</li>
+        <li>boan@ntu.edu.sg</li>
+        <li>xuy21@rpi.edu</li>
+      </ul>
+      <ul class="w3-text-grey">
+        <li>* Thanks to <a href="https://www.cs.binghamton.edu/~szhang/2019_aaai_tutorial/index.htm">Dr. Zhang's tutorial template.</a></li>
+        <li>* Thanks to Mr. Liangliang Xu's efforts in creating and maintaining the website.</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+</section>
+
+
+
+
+
+
+<div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+    <h1 class="w3-margin w3-xlarge"></h1>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity">
+<!--   <div class="w3-xlarge w3-padding-32">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </div> -->
+ <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+
+
+
+
+
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+
+function openTab(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+const sections = document.querySelectorAll("section");
+const navLi = document.querySelectorAll("nav .container ul li");
+window.addEventListener("scroll", () => {
+  let current = "";
+  sections.forEach((section) => {
+    const sectionTop = section.offsetTop;
+    const sectionHeight = section.clientHeight;
+    if (pageYOffset >= sectionTop - sectionHeight / 3) {
+      current = section.getAttribute("id");
+    }
+  });
+
+  navLi.forEach((li) => {
+    li.classList.remove("w3-white");
+    if (li.classList.contains(current)) {
+      li.classList.add("w3-white");
+    }
+  });
+});
+
+
+
+
+</script>
+
+</body>
+
+</html>
