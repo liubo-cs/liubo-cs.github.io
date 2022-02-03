@@ -1,0 +1,794 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+Subject: Computer Science Conference Rankings
+Date: Thu, 3 Feb 2022 23:36:15 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TOy3aGWEvuddY986CsrLFFzywF8Lj3soZ9FVGsVqaO----"
+
+
+------MultipartBoundary--TOy3aGWEvuddY986CsrLFFzywF8Lj3soZ9FVGsVqaO----
+Content-Type: text/html
+Content-ID: <frame-EA69E5F2FC5FDC53001E4F4E30097CE5@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><li=
+nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5738bc5d-4718-4974-=
+9dd0-74099e9be8b5@mhtml.blink" />
+<title> Computer Science Conference Rankings </title>
+
+</head>
+
+<body bgcolor=3D"#00ffff" data-new-gr-c-s-check-loaded=3D"14.1047.0" data-g=
+r-ext-installed=3D"">
+
+<div id=3D"title">
+
+<span id=3D"text">Computer Science Conference Rankings</span>
+<span id=3D"shadow">Computer Science Conference Rankings</span>
+</div>
+
+<p>
+<table border=3D"0" width=3D"780" cellpadding=3D"5" cellspacing=3D"2">
+<tbody><tr><td>
+<p align=3D"justify">
+Disclaimer: The rankings
+below are for the most prestigious category of paper at a given
+conference (i.e. mainly the refereed full paper track). They are based on g=
+eneral reputation of the conference in the field, the citation of the paper=
+s published in the conference, reputation of program committee members and =
+reputation of the review process.
+It is not based on scientific measurements and thus can be controversial. W=
+hile debatable, this ranking could change in time. New conferences are typi=
+cally ranked in the third tier.=20
+Top conferences are known for their impact history and their rigorous revie=
+w process. They should be equivalent, if not superior in impact and prestig=
+e, to reputable journals.
+Workshops and new (or unknown) conferences are not ranked.
+</p>
+<p><i>The University of Alberta and/or The Department of Computing Science
+do not necessarily endorse this ranking. It is mainly put together
+after intense consultation with international colleagues. The rankings
+do not necessarily represent my personal views about these conferences
+and I am not responsible for the reputation of conferences. This is an
+unofficial reference. If you are looking for a scientifically accurate
+ranking please disregard this page. --OZ</i></p><p>
+</p><form name=3D"form">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <select name=3D"tier">
+        <option selected=3D"" value=3D"#">Select conference tier...</option=
+>
+        <option value=3D"#1">Top Tier Conferences</option>
+        <option value=3D"#2">Second Tier Conferences</option>
+        <option value=3D"#3">Third Tier Conferences</option>
+</select></form>
+</td><th>Field Legend
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"280"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr bgcolor=3D"#FFFFFF"><td><span class=3D"db">DB: Databases</span><=
+/td></tr>=20
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"dm">DM: Data Mining</span></td><=
+/tr>=20
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"ai">AI: Artificial Inteligence</=
+span></td></tr>=20
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"nl">NL: Natural Language Process=
+ing</span></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"ed">ED: Computer Education</span=
+></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"ir">IR: Information Retrieval</s=
+pan></td></tr>=20
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"w3">W3: Web and Information Syst=
+ems</span></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"dp">DP: Distributed and Parallel=
+ Computing</span></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"gv">GV: Graphics, Vision and HCI=
+</span></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"mm">MM: Multimedia</span></td></=
+tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"nc">NC: Networks,
+Communications &amp; Performance</span></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"se">SE: Security and Privacy</sp=
+an></td></tr>
+<tr bgcolor=3D"#FFFFFF"><td><span class=3D"os">OS: Operating Systems / Simu=
+lations</span></td></tr>
+</tbody></table></td></tr></tbody></table>
+Some seemingly second tier conferences are actually top conferences in thei=
+r sub-field.
+</th></tr></tbody></table>
+
+  <a name=3D"1">
+       </a></p><hr><a name=3D"1">=20
+        <!--------------------------------------------------------------></=
+a>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"780"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#66CC66">Top Tier Conferences</td>
+<td align=3D"RIGHT" bgcolor=3D"#66CC66">(Rank 1)</td></tr>
+</tbody></table></td></tr></tbody></table>
+
+    <!-- Top Tier Conferences (Rank 1)  -->
+<ul>
+ <li><span class=3D"db">(DB) VLDB: Very Large Data Bases</span> (since 1975=
+)
+ </li><li><span class=3D"db">(DB) SIGMOD: ACM SIGMOD Conf on Management of =
+Data</span> (since 1975)
+ </li><li><span class=3D"db">(DB) PODS: ACM SIGMOD Conf on Principles of DB=
+ Systems</span> (since 1982)
+ </li><li><span class=3D"db">(DB) ICDE: IEEE Intl Conf on Data Engineering<=
+/span> (since 1984)
+ </li><li><span class=3D"db">(DB) ICDT: Intl Conf on Database Theory</span>
+      (since 1986)
+ </li><li><span class=3D"db">(DB) EDBT: Extending DB Technology</span> (sin=
+ce
+      1988)
+
+ </li><li><span class=3D"dm">(DM) SIGKDD: ACM Knowledge Discovery and Data
+      Mining</span> (since 1995)
+ </li><li><span class=3D"dm">(DM) ICDM: IEEE International Conference on Da=
+ta
+      Mining</span> (since 2001)
+
+ </li><li><span class=3D"ai">(AI) IJCAI: Intl Joint Conf on AI</span> (sinc=
+e 1969)
+ </li><li><span class=3D"ai">(AI) AAAI: American Association for AI Nationa=
+l
+      Conference</span> (since 1980)
+ </li><li><span class=3D"ai">(AI) ICML: Intl Conf on Machine Learning</span=
+>
+      (since 1984)
+ </li><li><span class=3D"ai">(AI) UAI: Conference on Uncertainty in AI</spa=
+n>
+      (since 1985)
+ </li><li><span class=3D"ai">(AI) UMAP: Intl Conf on User Modeling, Adaptat=
+ion and Personalization</span>
+      (since 1985) [Was UM: Intl Conf on User Modeling until 2009]
+ </li><li><span class=3D"ai">(AI) NIPS: Neural Information Processing
+      Systems</span> (since 1987)
+ </li><li><span class=3D"ai">(AI) AAMAS: International Conference on Autono=
+mous Agents and Multiagent Systems</span> (since 1997) [Was AGENTS: Interna=
+tional Conference on
+      Autonomous Agents until 2002]
+ </li><li><span class=3D"nl">(NL) ACL: Association for Computational
+      Linguistics</span> (since 1963)
+ </li><li><span class=3D"ed">(ED) AIED: Intl Conf on Artificial Intelligenc=
+e
+      in Education</span> (since 1983)
+ </li><li><span class=3D"ed">(ED) ITS: Intelligent Tutoring System Conferen=
+ce</span> (since 1988)
+
+ </li><li><span class=3D"ir">(IR) SIGIR: ACM SIGIR Conf on Information
+      Retrieval</span> (since 1971)
+
+ </li><li><span class=3D"w3">(W3) WWW: World-Wide Web Conference</span>
+      (since 1994)
+ </li><li><span class=3D"w3">(W3) ICIS: Intl Conf on Information Systems</s=
+pan> (since 1983)
+ </li><li> <span class=3D"dp">(DP) PPoPP: Principles and Practice of Parall=
+el
+      Programming</span> (since 1988)
+ </li><li> <span class=3D"dp">(DP) PACT: Intl Conf on Parallel Arch and
+      Compil Tech</span> (since 1990)
+ </li><li><span class=3D"dp">(DP) IPDPS: IEEE Intl Parallel and Dist
+      Processing Symp</span> (since 1986)
+ </li><li><span class=3D"dp">(DP) ICPP: Intl Conf on Parallel
+      Processing</span> (SINCE 1972)
+ </li><li><span class=3D"dp">(DP) Euro-Par: European Conf. on Parallel
+      Computing</span> (SINCE 1995)
+
+ </li><li> <span class=3D"gv">(GV)SIGGRAPH: ACM SIGGRAPH Conference</span>
+      (since 1974)
+ </li><li> <span class=3D"gv">(GV) CVPR: IEEE Conf on Comp Vision and Patte=
+rn
+      Recognition</span> (since 2000)
+ </li><li> <span class=3D"gv">(GV)ICCV: Intl Conf on Computer Vision</span>
+      (since 1987)
+ </li><li> <span class=3D"gv">(GV)I3DG: ACM-SIGRAPH Interactive 3D Graphics=
+</span>
+ </li><li> <span class=3D"mm">(MM) ACM-MM: ACM Multimedia Conference</span>
+      (since 1993)
+     =20
+ </li><li><span class=3D"nc">(NC) SIGCOMM: ACM Conf on Applic,
+      Techno, Archit, and Protocols for Comp
+      Comm</span> (since 1977)
+ </li><li> <span class=3D"nc">(NC) PERFORMANCE: IFIP Intl Symp
+      on Computer Performance, Modeling, Measurements &amp;
+      Evaluation</span> (since 1980)
+ </li><li><span class=3D"nc">(NC) SIGMETRICS: ACM Conf on Meas. &amp; Model=
+ling
+      of Comp Sys</span> (since 1981)
+ </li><li><span class=3D"nc">(NC) INFOCOM: Annual Joint Conf IEEE Comp &amp=
+; Comm
+      Soc</span> (since 1982)
+ </li><li><span class=3D"nc">(NC) MOBICOM: ACM Intl Conf on Mobile Computin=
+g
+      and Networking</span> (since 1995)
+ </li><li><span class=3D"se">(SE) IEEE Symposium on Security and
+      Privacy</span> (since 1980)
+ </li><li><span class=3D"se">(SE) CCS: ACM Conf on Comp and Communications
+      Security</span> (since 1993)
+ </li><li><span class=3D"os">(OS) SOSP: ACM SIGOPS Symp on OS
+      Principles</span> (since 1967)
+ </li><li><span class=3D"os">(OS) OSDI:  Usenix Symp on OS Design and
+      Implementation</span> (since 1994)
+</li></ul>
+<b>Other 1st tier conferences:</b>
+<ul>
+ <li><span class=3D"xx">(..) FOCS: IEEE Symposium on Foundations of Compute=
+r Science</span> (since 1959)
+ </li><li><span class=3D"xx">(..) STOC: ACM Symposium on Theory of Computin=
+g</span> (since 1969)
+ </li><li><span class=3D"xx">(..) ICALP: International Colloquium on Automa=
+ta, Languages and Programming</span> (since 1973)
+ </li><li><span class=3D"xx">(..) SODA: SIAM/ACM Symposium on Discrete Algo=
+rithms</span> (since 1990)
+ </li><li><span class=3D"xx">(..) ISMB: Intl Conf on Intelligent Systems fo=
+r
+      Molecular Biology</span> (since 1993)
+</li></ul>
+
+<a name=3D"2">
+       <hr>=20
+        <!--------------------------------------------------------------></=
+a>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"780"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#66CC66">Second Tier Conferences</td>
+<td align=3D"RIGHT" bgcolor=3D"#66CC66">(Rank 2)</td></tr>
+</tbody></table></td></tr></tbody></table>
+
+    <!-- Second Tier Conferences (Rank 2)  -->
+<ul>
+ <li><span class=3D"db">(DB) ER: Intl Conf on Conceptual Modeling
+      (Conf on the Entity Relationship Approach)</span> (Since 1979)
+ </li><li><span class=3D"db">(DB) SSDBM: Intl Conf on Scientific and
+      Statistical DB Mgmt</span> (since 1981)
+ </li><li><span class=3D"db">(DB) FODO: Intl Conf on Foundation on Data
+      Organization</span> (since 1981)
+ </li><li><span class=3D"db">(DB) DASFAA: Database Systems for Advanced
+      Applications</span> (since 1989)
+ </li><li><span class=3D"db">(DB) SSD: Intl Symp on Large Spatial
+      Databases</span> (since 1989)
+ </li><li><span class=3D"db">(DB) DOOD: Deductive and Object-Oriented
+      Databases</span> (since 1989)
+ </li><li><span class=3D"db">(DB) CIKM: Intl. Conf on Information and
+      Knowledge Management</span> (since 1992)
+ </li><li><span class=3D"db">(DB) CoopIS: Conference on Cooperative
+      Information Systems</span> (since 1993)
+
+ </li><li><span class=3D"dm">(DM) PAKDD: Pacific-Asia Conf on Know. Discove=
+ry
+      &amp; Data Mining</span> (since 1997)
+ </li><li><span class=3D"dm">(DM) PKDD: European Conf on Principles and
+      Practice of Knowledge Discovery in Databases</span> (since 1997)
+ </li><li><span class=3D"dm">(DM) DAWAK: Intl Conf on Data Warehousing and
+      Knowledge Discovery </span> (since 1999)
+ </li><li><span class=3D"dm">(DM) SDM: SIAM International Conference on Dat=
+a
+      Mining</span> (since 2001)
+
+ </li><li><span class=3D"ai">(AI) AID: Intl Conf on AI in Design</span>
+      (since 1991)
+ </li><li><span class=3D"ai">(AI) ECAI: European Conf on AI</span> (since 1=
+974)
+ </li><li><span class=3D"ai">(AI) ECML: European Conf on Machine
+      Learning</span> (since 1986)
+ </li><li><span class=3D"ai">(AI) GECCO: Genetic and Evolutionary Computati=
+on
+      Conference </span> (since 1999)
+ </li><li><span class=3D"ai">(AI) ICGA: Intl Conf on Genetic Algorithms</sp=
+an> (since 1991)
+ </li><li><span class=3D"ai">(AI) GP: Genetic Programming Conference</span>
+      (since 1995)
+ </li><li><span class=3D"ai">(AI) IAAI: Innovative Applications of AI</span=
+>
+      (since 1989)
+ </li><li><span class=3D"ai">(AI) ICIP: Intl Conf on Image Processing</span=
+>
+      (since 1994)
+ </li><li><span class=3D"ai">(AI) ICNN/IJCNN: Intl (Joint) Conference on
+      Neural Networks</span> (since 1989)
+ </li><li><span class=3D"ai">(AI) ICPR: Intl Conf on Pattern
+      Recognition</span> (since 1989)
+ </li><li><span class=3D"ai">(AI) ICDAR: Intl Conf on Document Analysis and
+      Recognition</span> (since 1991)
+ </li><li><span class=3D"ai">(AI) ICTAI: IEEE conference on Tools with
+      AI</span> (since 1989)
+ </li><li><span class=3D"ai">(AI) AMAI:  Intl Symp on Artificial Intelligen=
+ce
+      and Maths</span> (since 1990)
+ </li><li><span class=3D"nl">(NL) EACL - European Association for
+      Computational Linguistics</span> (since 1983)
+ </li><li><span class=3D"nl">(NL) COLING: Intl Conf on
+      Computational Liguistics</span> (since 1966)
+ </li><li><span class=3D"nl">(NL) EMNLP: Conf on Empirical Methods in Natur=
+al
+      Language Processing</span> (since 1996)
+     =20
+ </li><li><span class=3D"ed">(ED) ICALT: IEEE Intl Conf on Advanced Learnin=
+g
+      Technologies </span> (since 2001)
+
+ </li><li><span class=3D"ir">(IR) TREC: Text REtrieval Conference</span>
+      (since 1992)
+ </li><li><span class=3D"ir">(IR) ECIR: European Conference on Information
+      Retrieval</span> (since 1979)
+
+ </li><li><span class=3D"w3">(W3) HYPERTEXT: ACM Conference on Hypertext an=
+d
+      Hypermedia</span> (since 1987)
+ </li><li><span class=3D"w3">(W3) EC-web: Intl Conf on Electronic Commerce
+      and Web Technologies</span> (since 2000)
+ </li><li><span class=3D"w3">(W3) WISE: Intl Conf on Web Information System=
+s
+      Engineering</span> (since 2000)
+
+ </li><li><span class=3D"w3">(W3) ICWS: IEEE Intl Conf on Web Services</spa=
+n> (since 2003)
+ </li><li><span class=3D"dp">(DP) ICDCS: IEEE Intl Conf on Distributed Comp
+      Systems</span> (since 1980)
+ </li><li> <span class=3D"dp">(DP) PODC: ACM Symp on Principles of
+      Distributed Computing</span> (since 1982)
+ </li><li> <span class=3D"dp">(DP) SPAA: ACM Symp on Parallel Algms and
+      Architecture</span> (since 1989)
+ </li><li><span class=3D"dp">(DP) ASAP: Intl Conf on Apps for Specific Arra=
+y Processors</span>
+ </li><li><span class=3D"dp">(DP) CCC:  Cluster Computing Conference</span>
+ </li><li><span class=3D"dp">(DP) ICPADS: IEEE Intl Conf on Parallel and
+      Distributed Systems</span> (<a href=3D"http://www.informatik.uni-trie=
+r.de/~ley/db/conf/icpads/index.html">Since 1994</a>?)
+           =20
+ </li><li><span class=3D"gv">(GV) ECCV: European Conference on Computer
+      Vision</span> (since 1998)
+ </li><li><span class=3D"gv">(GV) EUROGRAPH: European Graphics Conference</=
+span>
+ </li><li><span class=3D"gv">(GV) CGI: Computer Graphics International</spa=
+n>
+      (since 1997)
+ </li><li><span class=3D"gv">(GV) CA: Computer Animation</span> (since 1997=
+)
+
+ </li><li> <span class=3D"mm">(MM) IEEE-MM: IEEE Intl Conf on Multimedia Co=
+mputing and Sys</span>
+ </li><li><span class=3D"mm">(MM) MMCN: ACM/SPIE Multimedia Computing and N=
+etworking</span>
+ </li><li><span class=3D"mm">(MM) ICME: Intl Conf on MMedia &amp; Expo</spa=
+n>
+      (since 2000)
+ </li><li><span class=3D"nc">(NC) NetStore: Network Storage Symposium</span=
+>
+ </li><li><span class=3D"nc">(NC) IC3N: Intl Conf on Comp Comm and Networks=
+</span>
+ </li><li><span class=3D"nc">(NC) LCN: IEEE Annual Conference on Local Comp=
+uter Networks</span>
+ </li><li><span class=3D"nc">(NC) ICC:  Intl Conf on Comm</span>
+ </li><li><span class=3D"nc">(NC) WCNC: IEEE Wireless Communications and Ne=
+tworking Conference</span>
+ </li><li><span class=3D"se">(SE) SECURITY: Usenix Security Symposium</span=
+>
+      (since 1992)
+ </li><li><span class=3D"se">(SE) ESORICS: European Symposium on Research i=
+n
+      Computer Security</span> (since 1990)
+ </li><li><span class=3D"os">(OS) IEEE Annual Simulation
+      Symposium</span> (since 1968)
+ </li><li><span class=3D"os">(OS) MASCOTS: Symp Model Analysis &amp; Sim on=
+ Comp
+      &amp; Telecom Sys</span> (since 1993)
+
+</li></ul>
+<b>Other 2nd tier conferences:</b>
+<ul>
+
+ <li><span class=3D"xx">(..) CC:  Compiler Construction</span> (since 1986)
+</li></ul>
+
+  <a name=3D"3">
+       <hr>=20
+        <!--------------------------------------------------------------></=
+a>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"780"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#66CC66">Third  Tier Conferences</td>
+<td align=3D"RIGHT" bgcolor=3D"#66CC66">(Rank 3)</td></tr>
+</tbody></table></td></tr></tbody></table>
+
+    <!-- Third Tier Conferences (Rank 3)  -->
+<ul>
+ <li><span class=3D"db">(DB) DEXA: Database and Expert System
+      Applications</span> (since 1990)
+ </li><li><span class=3D"db">(DB) IDEAS: Intl Database Engineering and
+      Application Symposium</span> (since 1997)
+ </li><li><span class=3D"db">(DB) COMAD: Intl Conf on Management of
+      Data</span> (since 1989)
+ </li><li><span class=3D"db">(DB) BNCOD: British National Conference on
+      Databases</span> (since 1981)
+ </li><li><span class=3D"db">(DB) SBBD: Simp=C3=B3sio Brasileiro de Bancos =
+de Dados</span> (since 1986)
+ </li><li><span class=3D"db">(DB) ADC: Australasian Database
+      Conference</span> (since 1990)
+ </li><li><span class=3D"db">(DB) ADBIS: Symposium on Advances in DB and
+      Information Systems</span> (since 1993)
+ </li><li><span class=3D"db">(DB) DB&amp;IS: Intl. Baltic Conference on Dat=
+a
+      Bases and Information Systems</span> (since 1994)
+ </li><li><span class=3D"db">(DB) IFIP-DS: IFIP-DS Conference</span>
+ </li><li><span class=3D"db">(DB) NGDB: Intl Symp on Next Generation DB Sys=
+tems and Apps</span>
+ </li><li><span class=3D"db">(DB) ADTI: Intl Symp on Advanced DB Technologi=
+es and Integration</span>
+ </li><li><span class=3D"db">(DB) MDM - Int. Conf. on Mobile Data Access/Ma=
+nagement (MDA/MDM)</span>
+ </li><li><span class=3D"db">(DB) VDB - Visual Database Systems</span> (<a =
+href=3D"http://www.informatik.uni-trier.de/~ley/db/conf/vdb/index.html">Sin=
+ce
+      1989</a>)
+
+ </li><li><span class=3D"dm">(DM) ADMA: Intl Conf on Advanced Data Mining a=
+nd
+      Applications</span> (since 2005)
+ </li><li><span class=3D"dm">(DM) ICDM: Industrial Conference on Data
+      Mining</span> (since 2001)
+ </li><li><span class=3D"dm">(DM) AusDM: Australasian Data Mining
+      Conference</span> (since 2002)  =20
+ </li><li><span class=3D"dm">(DM) EGC: Journ=C3=A9es Francophones
+      Extraction et Gestion de  Connaissances</span> (since 2000)
+
+ </li><li><span class=3D"ai">(AI) PRICAI: Pacific Rim Intl Conf on AI</span=
+>
+      (since 1990)
+ </li><li><span class=3D"ai">(AI) AusAI: Australian Joint Conf on
+      AI</span> (since 1987)
+ </li><li><span class=3D"ai">(AI) ANNIE: Artificial Neural Networks in Engi=
+neering</span>
+ </li><li><span class=3D"ai">(AI) ANZIIS: Australian/NZ Conf on Intelligent=
+ Inf. Systems</span>
+ </li><li><span class=3D"ai">(AI) CAIA: Conf on AI for Applications</span>
+ </li><li><span class=3D"ai">(AI) CAAI: Canadian Artificial Intelligence Co=
+nference</span>
+ </li><li><span class=3D"ai">(AI) ICANN: International Conf on Artificial N=
+eural Networks</span>
+ </li><li><span class=3D"ai">(AI) ICCB: International Conference on Case-Ba=
+sed Reasoning</span>
+ </li><li><span class=3D"ai">(AI) ICGA: International Conference on Genetic=
+ Algorithms</span>
+ </li><li><span class=3D"ai">(AI) ICONIP: Intl Conf on Neural Information P=
+rocessing</span>
+ </li><li><span class=3D"ai">(AI) ICMS: International Conference on Multiag=
+ent Systems</span>
+ </li><li><span class=3D"ai">(AI) ICPS: International conference on Plannin=
+g Systems</span>
+ </li><li><span class=3D"ai">(AI) PACES: Pacific Asian Conference on Expert=
+ Systems</span>
+ </li><li><span class=3D"ai">(AI) SCAI: Scandinavian Conference on Artifica=
+l Intelligence</span>
+ </li><li><span class=3D"nl">(NL) NLDB: Applications of Natural Language to
+      Data Bases</span> (since 1995)
+     =20
+ </li><li><span class=3D"ed">(ED) ICCE: Intl Conf on Computers in Education=
+</span>
+ </li><li><span class=3D"ed">(ED) EDmedia: World Conf on Educational Multim=
+edia, Hypermedia &amp; Telecommunications</span>=20
+ </li><li><span class=3D"ed">(ED) AH: Intl Conf on Adaptive Hypermedia and =
+Adaptive Web-Based Systems</span>
+ </li><li><span class=3D"w3">(W3) APweb: Asia Pacific Web Conference</span>=
+ (since 1998)
+ </li><li><span class=3D"w3">(W3) WAIM: Intl Conf on Web-Age
+      Information Management</span> (since 2000)
+ </li><li><span class=3D"w3">(W3) SAINT: Intl Symposium on Applications and
+      the Internet</span> (since 2001)
+ </li><li><span class=3D"dp">(DP) EGC: European Grid Conference</span> (sin=
+ce 2005)
+ </li><li><span class=3D"dp">(DP) MPPOI: Massively Par Proc Using Opt Inter=
+conns</span>
+ </li><li> <span class=3D"dp">(DP) MassPar: Symp on Frontiers of Massively
+      Parallel Proc</span>  (since 1990)
+ </li><li><span class=3D"dp">(DP) SRDS: Symp on Reliable Distributed
+      Systems</span> (SINCE 1982)
+ </li><li><span class=3D"dp">(DP) DAIS: IFIP Intl Conf on Distributed
+      Applications and Interoperable Systems</span>
+     =20
+ </li><li><span class=3D"gv">(GV) ACCV: Asian Conference on Computer
+      Vision</span> (since 1993)
+ </li><li><span class=3D"mm">(MM) MMM: Multimedia Modelling</span> (since 1=
+997)
+ </li><li><span class=3D"nc">(NC) HPCN: High-Performance Computing and Netw=
+orking Geometry Modeling and Processing</span>
+ </li><li><span class=3D"se">(SE) ARES: Intl Conf on Availability, Reliabil=
+ity and Security</span>
+ </li><li><span class=3D"os">(OS) DSS: Distributed Simulation Symposium</sp=
+an>
+ </li><li><span class=3D"os">(OS) SCSC: Summer Computer Simulation Conferen=
+ce</span>
+ </li><li><span class=3D"os">(OS) WCSS: World Congress on Systems Simulatio=
+n</span>
+ </li><li><span class=3D"os">(OS) ESS: European Simulation Symposium</span>
+ </li><li><span class=3D"os">(OS) ESM: European Simulation Multiconference<=
+/span>
+=20
+</li></ul>
+<b>Other 3rd tier conferences:</b>
+<ul>
+ <li><span class=3D"xx">(..) ICCSA: Intl Conf on Computational Science
+      and its Applications</span> (since 2001)
+ </li><li><span class=3D"xx">(..) KES: Knowledge-Based Intelligent Informat=
+ion and Engineering Systems</span> (since 1997)
+ </li><li><span class=3D"xx">(..) ICADL: Intl Conf on Asian Digital Librari=
+es</span> (since 1998)
+ </li><li><span class=3D"xx">(..) ISORC: IEEE Intl Symposium on
+      Object-oriented Real-time distributed Computing</span> (since 1998)
+ </li><li><span class=3D"xx">(..) ISIM: Intl Conf on Information Systems
+      Implementation and Modelling</span> (since 1998)
+ </li><li><span class=3D"xx">(..) IEEEIS: IEEE Conference On Intelligent Sy=
+stems</span> (since 2004)
+</li><li><span class=3D"xx">(..) ACE: ACM SIGCHI Intl Conf on Advances
+       in Computer Entertainment Technology</span> (since 2004)
+</li><li><span class=3D"xx">(..) ICGeS: Intl Conf on Global E-Security</spa=
+n> (since 2005)
+</li><li><span class=3D"xx">(..) PERVASIVE: Intl Conf on Pervasive Computin=
+g</span> (since 2003)
+</li><li><span class=3D"xx">(..) DGO: Intl Conf on Digital Government Resea=
+rch</span> (since 2000)
+</li></ul>
+       <hr>=20
+        <!-------------------------------------------------------------->
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"780"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#66CC66">Unranked Conferences</td>
+<td align=3D"RIGHT" bgcolor=3D"#66CC66">(Rank ?)</td></tr>
+</tbody></table></td></tr></tbody></table>
+
+    <!-- Not ranked yet Conferences (Rank ?)  -->
+<ul>
+ <li><span class=3D"os">(OS) FAST: Usenix conference on File and Storage
+      technologies</span> (Since 2002) =20
+</li><li><span class=3D"w3">(W3) ECOWS: IEEE European Conference on Web Ser=
+vices</span> (since 2003)
+</li><li><span class=3D"w3">(W3) ICSOC: International Conference on Service=
+ Oriented Computing </span> (since 2003)
+</li><li><span class=3D"w3">(W3) ICWE: International Conference on Web Engi=
+neering </span> (since 2000)
+ </li><li><span class=3D"xx">(..) ICDE: World Conf on Open learning and
+      Distance Education</span> (Since 1981) =20
+ </li><li><span class=3D"xx">(..) WCCE: IFIP World Conf on Computers in Edu=
+cation</span> (Since 1981) =20
+ </li><li><span class=3D"xx">(..) CAiSE: Conf on Advanced Information Syste=
+ms
+      Engineering</span> (since 1988)
+ </li><li><span class=3D"xx">(..) AAMAS: Intl Joint Conf on Autonomous Agen=
+ts
+      and Multiagent Systems</span> (Since 2002) =20
+ </li><li><span class=3D"xx">(..) ICVS: Intl Conf on Computer Vision
+      Systems</span> (since 1997)
+ </li><li><span class=3D"xx">(..) AISC: Intl Conf on Artificial Intelligenc=
+e
+      and Sybolic Computing</span> (since 1992)
+ </li><li><span class=3D"xx">(..) CCC (was CoCo): IEEE Conf on
+      Computational Complexity</span> (since 1986)
+ </li><li><span class=3D"xx">(..) AVI: Working Conf on Advanced Visual Inte=
+rfaces</span> (since 1992)
+ </li><li><span class=3D"xx">(..) CRYPTO: Intl Cryptology Conf</span> (sinc=
+e 1981)
+ </li><li><span class=3D"xx">(..) SAC: ACM Symposium on Applied Computing</=
+span> (since 1986)
+ </li><li><span class=3D"xx">(..) INFOVIS: IEEE Symposium on Information Vi=
+sualization</span> (since 1995)
+ </li><li><span class=3D"xx">(..) VIS: IEEE Visualization</span> (since 199=
+0)
+ </li><li><span class=3D"xx">(..) CCGRID: IEEE International Symposium on
+      Cluster Computing and the Grid</span> (since 2001)
+ </li><li><span class=3D"xx">(..) CBMS: IEEE International Symposium on
+      Computer-Based Medical Systems</span> (since 1988)
+ </li><li><span class=3D"xx">(..) JCDL: ACM/IEEE Joint Conference on Digita=
+l
+      Libraries (was ADL: Advances in Digital Libraries)</span> (since
+      1995)
+ </li><li><span class=3D"xx">(..) GIS: ACM Intl Symposium of Advances in
+      Geographic Systems</span> (since
+      1993)
+ </li><li><span class=3D"xx">(..) ICPADS: IEEE Intl Conf on Parallel and
+      Distributed Systems</span> (since 1994)
+ </li><li><span class=3D"xx">(..) SEKE: Intl Conf on Software Engineering a=
+nd
+      Knowledge Engineering</span> (since 1989)
+     =20
+</li></ul>=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"1" width=3D"780"><tbod=
+y><tr><td bgcolor=3D"#000000">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"2" width=3D"100%">
+<tbody><tr><td bgcolor=3D"#66CC66">
+<span style=3D"background-color: yellow">Not Encouraged (due to dubious ref=
+eree process)</span>:
+<ul>
+ <li> Intl Multiconferences in Computer Science -- 14 joint int'l confs.
+ </li><li> SCI: World Multi confs on systemics, sybernetics and informatics
+ </li><li> SSGRR: International conf on Advances in Infrastructure for e-B,=
+ e-Edu and e-Science and e-Medicine
+ </li><li> IASTED conferences
+ </li><li> CCCT: International Conference on Computer, Communication and Co=
+ntrol Technologies
+ </li><li> IARIA: International Academy, Research, and Industry Association
+ </li><li> WASET: World Academy of SAcience, Engineering and Technology=09
+</li></ul>
+</td></tr>
+</tbody></table></td></tr></tbody></table>
+<hr>
+<table border=3D"1" width=3D"780">
+<tbody><tr>
+<th>
+<a href=3D"http://www.computer.org/portal/site/ieeecs/menuitem.c5efb9b8ade9=
+096b8a9ca0108bcd45f3/index.jsp?&amp;pName=3Dieeecs_level1&amp;path=3Dieeecs=
+/conferences&amp;file=3Dcalendar.xml&amp;xsl=3Dgeneric.xsl&amp;">IEEE
+Conf calendar</a>
+</th>
+<th>
+<a href=3D"http://www.acm.org/events/">ACM Conf calendar</a>
+</th>
+<th><a href=3D"http://www.siam.org/meetings/calendar.php">SIAM Conf calenda=
+r</a></th>
+<th>
+<a href=3D"http://www.informatik.uni-trier.de/~ley/db/conf/index.a.html">DB=
+LP
+Conf list</a></th>
+</tr>
+</tbody></table>
+Other lists of conferences=20
+<ul>
+<li><a href=3D"http://www.diku.dk/forskning/topps/Conferences.html">Confere=
+nces
+in programming Language Theory</a>
+</li><li><a href=3D"http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/la=
+nguage/conferences.html"> Conferences in Programing Language and Compilers<=
+/a>    =20
+</li><li> Conferences on parallel and Distributed Computing: (<a href=3D"ht=
+tp://dmoz.org/Computers/Parallel_Computing/Conferences/">List 1</a>), (<a h=
+ref=3D"http://www-sop.inria.fr/sloop/conferences/">List 2</a>), (<a href=3D=
+"http://wwwcs.uni-paderborn.de/fachbereich/AG/agmadh/WWW/GI/Ankuendigungen.=
+html">List 3</a>), (<a href=3D"http://www.cs.cmu.edu/~scandal/conf/pro-old.=
+html">List 4</a>)
+</li><li> <a href=3D"http://www.netlib.org/confdb/conf_list.html">List of
+     conferences in Databases and Systems</a>
+</li><li> <a href=3D"http://www.cs.cmu.edu/~cil/v-conf.html"> Conferences i=
+n
+     Computer Vision</a>
+</li><li> <a href=3D"http://visinfo.zib.de/">Conferences in Visualization</=
+a>
+</li></ul>    =20
+<hr>
+<ul>
+<li> <a href=3D"http://www.cs.ucsb.edu/~almeroth/conf/stats/">Conference
+     Acceptance Rate Statistics</a>
+</li><li> Citeseer's <a href=3D"http://citeseer.ist.psu.edu/impact.html">Co=
+nference Impact
+     Ratings</a> (from 2003)    =20
+</li><li> <a href=3D"http://skyblue.csd.auth.gr/sceas/php/index.php4">SCEAS=
+</a> (Scientific Collection Evaluator with Advanced Scoring).=20
+</li><li> <a href=3D"http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">C=
+omputer Security Conference Ranking and Statistic</a> (by Guofei Gu)
+</li><li> Other non-official rankings (most are based on an internal
+     ranking made at the National University Singapore after a <a href=3D"h=
+ttp://www.comp.nus.edu.sg/~tankl/bench.html">1999 report</a>.:
+     <ul>
+       <li> From <a href=3D"http://www.ntu.edu.sg/home/assourav/crank.htm">=
+Sourav Bhowmick</a> (Nanyang University, Singapore)=20
+       </li><li> From <a href=3D"http://www.cc.gatech.edu/people/home/guofe=
+i/CS_ConfRank.htm">Guofei Gu</a> (Georgia Tech, USA)
+       </li><li> From <a href=3D"http://www.infotech.monash.edu.au/research=
+/internal-info/ranking-list/ict-conference-rankings-2.html">Monash Universi=
+ty</a>
+       </li><li><a href=3D"http://dsl.cs.uchicago.edu/seminar/publish-venue=
+s.htm">Ranking by Distributed Systems Lab at U of Chicago</a>
+       </li><li><a href=3D"http://perso.crans.org/~genest/conf.html">Confer=
+ence ranking by Blaise Genest</a> giving som indicators (with Europe's pers=
+pective)</li>
+       <li><a href=3D"http://www-static.cc.gatech.edu/grads/g/guofei/sec_co=
+nf_stat.htm">Ranking of Computer Security venues</a> (by Guofei Gu))
+       </li><li><a href=3D"http://www.cs-conference-ranking.org/conferencer=
+ankings/alltopics.html">cs-conference-ranking.org</a> (Method for calculati=
+ng the normalized Estimated Impact of Conferences is not entirely disclosed=
+ and vague). Comments on this ranking and other similar ones can be found o=
+n <a href=3D"http://rankingexpose.com/">http://rankingexpose.com/</a>.
+       </li><li> <a href=3D"http://www.core.edu.au/rankings/Conference%20Ra=
+nking%20Main.html">Conference ranking</a> by the Australian CORE (COmputing=
+ Research and Education)
+       </li><li> <a href=3D"http://www.cais.ntu.edu.sg/content/research/con=
+ference_list.jsp">Conference Ranking</a> by the School of Computer Engineer=
+ing, Nanyang University, Singapore
+  =20
+
+     </li></ul>
+</li></ul>
+<hr>
+<address>Maintained by: <a href=3D"http://www.cs.ualberta.ca/~zaiane/">Osma=
+r R. Za=C3=AFane</a> &lt;zaiane@cs.ualberta.ca&gt;
+</address>
+<a href=3D"http://www.mypagerank.net/" target=3D"_blank"><img src=3D"http:/=
+/www.mypagerank.net/services/pagerankbutton/pagerankbutton.php?aut=3Dde5109=
+18acfc3a81038dfc9e4331144c5244452abf75fc1b2b5b729996f050e0da1975bd248c029ea=
+32e28457081d43a3f224e7e2a963063786794" border=3D"0" alt=3D"Powered by  MyPa=
+gerank.Net"></a>
+<br>
+Last modified: January 9, 2018
+<br>
+URL: http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html
+
+
+
+
+
+
+
+<!-- REMOVED -->
+ <!-- ECCS: IFIP Intl Conf on Perf Eval of Comp &amp; Comm Sys  -->
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root=3D"true"><=
+template shadowmode=3D"open"><div aria-label=3D"grammarly-integration" tabi=
+ndex=3D"-1" data-content=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActi=
+ve&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammar=
+ly-desktop-integration></html>
+------MultipartBoundary--TOy3aGWEvuddY986CsrLFFzywF8Lj3soZ9FVGsVqaO----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5738bc5d-4718-4974-9dd0-74099e9be8b5@mhtml.blink
+
+@charset "utf-8";
+
+#title { font: bold 36px "Hoefler Text", serif, "Times New Roman", Georgia,=
+ Times; position: relative; top: 5px; left: 5px; }
+
+#text { position: relative; top: 0px; left: 0px; color: rgb(0, 0, 0); z-ind=
+ex: 2; }
+
+#shadow { position: absolute; top: 4px; left: 4px; color: rgb(153, 153, 153=
+); z-index: 1; }
+
+.db { background-color: rgb(153, 204, 153); }
+
+.dm { background-color: rgb(204, 255, 204); }
+
+.ai { background-color: rgb(204, 153, 153); }
+
+.nl { background-color: rgb(255, 102, 102); }
+
+.ed { background-color: rgb(255, 204, 204); }
+
+.ir { background-color: rgb(153, 153, 204); }
+
+.w3 { background-color: rgb(204, 204, 255); }
+
+.dp { background-color: rgb(153, 153, 153); }
+
+.gv { background-color: rgb(255, 255, 0); }
+
+.mm { background-color: rgb(255, 255, 204); }
+
+.nc { background-color: rgb(255, 0, 255); }
+
+.se { background-color: rgb(255, 165, 0); }
+
+.os { background-color: rgb(255, 69, 0); }
+------MultipartBoundary--TOy3aGWEvuddY986CsrLFFzywF8Lj3soZ9FVGsVqaO----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.mypagerank.net/services/pagerankbutton/pagerankbutton.php?aut=de510918acfc3a81038dfc9e4331144c5244452abf75fc1b2b5b729996f050e0da1975bd248c029ea32e28457081d43a3f224e7e2a963063786794
+
+R0lGODdhVgASAMIAANfX1////wAAAAAAAAB+AAAAAAAAAAAAACwAAAAAVgASAAADwCi63P4wykkj
+uDjrzbv/YLgpAGGeaHqKbOtypCqnb22D8azf/DcMoZwqQAyoLr9kD5D8uZw4QWloJBBpTGC2B4WK
+vB4h6jpDartKM/CcRqvZbXZHfCqSUW9txunuNzd8coFhUjJkdyZmgH9+jGl5W1t/hFMph1UrkRhu
+WZyba3KSgo8whVQmiASKe6MafoqvopojplSpqrOQnXqTnE2gsKG0lTpHLZ5LL3TFmcekyS7LzLjQ
+1UFS1tnZFdzd3t8UCQA7
+
+------MultipartBoundary--TOy3aGWEvuddY986CsrLFFzywF8Lj3soZ9FVGsVqaO------
